@@ -1,0 +1,6 @@
+﻿  Trianglerot.cpp
+C:\Users\abdul\OneDrive\Documents\CSC212\Triangle\Trianglerot.cpp(30,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abdul\OneDrive\Documents\CSC212\Triangle\Trianglerot.cpp(30,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abdul\OneDrive\Documents\CSC212\Triangle\Trianglerot.cpp(30,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\abdul\OneDrive\Documents\CSC212\Triangle\Trianglerot.cpp(30,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Triangle.vcxproj -> C:\Users\abdul\OneDrive\Documents\CSC212\Triangle\x64\Debug\Triangle.exe

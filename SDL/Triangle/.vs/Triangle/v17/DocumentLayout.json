@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abdul\\OneDrive\\Documents\\CSC212\\Triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87D64D95-E2F0-4377-8B4F-B16616EF0A8B}|Triangle.vcxproj|C:\\Users\\abdul\\OneDrive\\Documents\\CSC212\\Triangle\\Trianglerot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87D64D95-E2F0-4377-8B4F-B16616EF0A8B}|Triangle.vcxproj|solutionrelative:Trianglerot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trianglerot.cpp",
+              "DocumentMoniker": "C:\\Users\\abdul\\OneDrive\\Documents\\CSC212\\Triangle\\Trianglerot.cpp",
+              "RelativeDocumentMoniker": "Trianglerot.cpp",
+              "ToolTip": "C:\\Users\\abdul\\OneDrive\\Documents\\CSC212\\Triangle\\Trianglerot.cpp",
+              "RelativeToolTip": "Trianglerot.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowE0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T07:48:56.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
