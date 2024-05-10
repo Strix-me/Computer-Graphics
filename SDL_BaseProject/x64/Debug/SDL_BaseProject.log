@@ -1,5 +1,0 @@
-﻿  animate.cpp
-  sdl.cpp
-C:\Users\abdul\Downloads\SDL_BaseProject\SDL_BaseProject\sdl.cpp(14,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Generating Code...
-  SDL_BaseProject.vcxproj -> C:\Users\abdul\Downloads\SDL_BaseProject\SDL_BaseProject\x64\Debug\SDL_BaseProject.exe
