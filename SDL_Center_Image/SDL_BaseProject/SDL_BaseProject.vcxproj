@@ -75,8 +75,8 @@
     <LibraryPath>C:\Users\abdul\Downloads\SDL_BaseProject\SDL_BaseProject\Libraries\SDL\SDL2-2.30.1\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\abdul\Downloads\SDL_BaseProject\SDL_BaseProject\Libraries\SDL\SDL2-2.30.1\include;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\abdul\Downloads\SDL_BaseProject\SDL_BaseProject\Libraries\SDL\SDL2-2.30.1\lib\x64;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\abdul\OneDrive\Documents\CSC212\Computer-Graphics\SDL_Center_Image\SDL_BaseProject\Libraries\SDL\SDL2-2.30.1\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\abdul\OneDrive\Documents\CSC212\Computer-Graphics\SDL_Center_Image\SDL_BaseProject\Libraries\SDL\SDL2-2.30.1\lib\x64;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -113,11 +113,13 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\abdul\OneDrive\Documents\CSC212\Computer-Graphics\SDL_Center_Image\SDL_BaseProject\Libraries\SDL\SDL2-2.30.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>SDL2main.lib;SDL2.lib;SDL2_image.lib;Shell32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\Users\abdul\OneDrive\Documents\CSC212\Computer-Graphics\SDL_Center_Image\SDL_BaseProject\Libraries\SDL\SDL2-2.30.1\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
